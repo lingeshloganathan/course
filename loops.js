@@ -34,7 +34,7 @@ for (const student of students) {
 //for in loop
 const fun={name:"lingesh", age:23}     //fun is obj
 for (const fun1 of fun) {       //fun1 is key
-  console.log(fun1 +":" /* + fun[fun1] */)  //output: values and key in for of loop
+  console.log(fun1 +":" /* + fun[fun1] */)  //output: values and key in for of looppppsss
 }
 
 const arr=[10,20,30,'lingi']   //arr is obj
