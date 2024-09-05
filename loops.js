@@ -43,3 +43,4 @@ for ( const arr1 in arr) {   //arr1 is key
 }
 
 console.log(arr.length-1 +":"+ arr[arr.length-1])
+
